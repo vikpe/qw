@@ -5,7 +5,7 @@
 2. copy locs to `qw/locs/`
 
 ## Config
-**Setup config**
+**Setup/save config**
 1. copy `tvs_alias.cfg` and `tvs_tp.cfg` to `id1/`
 1. edit player settings and binds in `tvs_tp.cfg`
 1. start ezquake
