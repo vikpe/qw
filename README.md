@@ -20,3 +20,10 @@ Draft config is now saved at `ezquake/configs/xx.cfg`.
 ```
 /cfg_load xx
 ```
+
+### MM3
+* **armor**: `red`, `yellow`, `green`
+* **rocket**: `rock`,  e.g. "rock at tunnel"
+* **item times** - declare `the time it next spawns` (if you take low on :12 then declare "low on 42")
+* **enemy powerups** - `"enemy quad at <location>"` or `"enemy quad going to <location>"`
+  * really helps to know e.g. is enemy taking quad to yellow, or to ring etc
