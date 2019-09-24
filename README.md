@@ -1,7 +1,8 @@
 # qw
 
 ## Locs
-copy locs to `qw/locs/`
+1. create a backup of your current `dm2.loc`, `dm3.loc` and `e1m2.loc`.
+2. copy locs to `qw/locs/`
 
 ## Config
 **Save/setup**
