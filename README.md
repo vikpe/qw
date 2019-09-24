@@ -5,8 +5,7 @@
 2. copy locs to `qw/locs/`
 
 ## Config
-**Save/setup**
-
+**Setup config**
 1. load your current config.
 2. copy `tvs_alias.cfg` and `tvs_tp.cfg` to `id1/`
 3. edit player settings and binds in `tvs_tp.cfg`.
