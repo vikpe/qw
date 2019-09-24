@@ -6,14 +6,14 @@
 
 ## Config
 **Setup config**
-1. load your current config.
-2. copy `tvs_alias.cfg` and `tvs_tp.cfg` to `id1/`
-3. edit player settings and binds in `tvs_tp.cfg`.
-4. start ezquake
+1. start ezquake
+2. load your current config.
+3. copy `tvs_alias.cfg` and `tvs_tp.cfg` to `id1/`
+4. edit player settings and binds in `tvs_tp.cfg`.
 5. `/exec tvs_tp.cfg`
 6. `cfg_save xx`
 
-Config is now saved at `ezquake/configs/xx.cfg`.
+Draft config is now saved at `ezquake/configs/xx.cfg`.
 
 **Load config**
 
