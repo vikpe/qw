@@ -11,15 +11,8 @@ copy locs to `qw/locs/`
 3. edit player settings and binds in `tvs_tp.cfg`.
 4. start ezquake
 5. `/exec tvs_tp.cfg`
-6. 
-```
-cfg_save_userinfo 2
-cfg_save_aliases 1
-cfg_save_binds 1
-cfg_save_cvars 1
+6. `cfg_save xx`
 
-cfg_save xx
-```
 Config is now saved at `ezquake/configs/xx.cfg`.
 
 **Load config**
