@@ -11,7 +11,7 @@
 1. start ezquake
 1. load your current config
 1. `/exec tvs_tp.cfg`
-1. `cfg_save xx`
+1. `/cfg_save xx`
 
 Draft config is now saved at `ezquake/configs/xx.cfg`.
 
