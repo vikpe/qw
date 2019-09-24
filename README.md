@@ -12,10 +12,10 @@ copy locs to `qw/locs/`
 4. `/exec tvs_tp.cfg`
 5. 
 ```
+cfg_save_userinfo 2
 cfg_save_aliases 1
 cfg_save_binds 1
-cfg_save_userinfo 2
-cfg_save xx
+cfg_save_cvars 1
 ```
 
 **Load config**
