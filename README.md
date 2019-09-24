@@ -1,4 +1,4 @@
-# qw
+# Draft config/locs
 
 ## Locs
 1. create a backup of your current `dm2.loc`, `dm3.loc` and `e1m2.loc`.
