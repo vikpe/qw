@@ -84,7 +84,8 @@
     "id": "3BCADE2038A9F726EF7BDDF1DA112CACA9EC60D0AF",
     "started": "2020-02-09 20:51 UTC",
     "ended": "2020-02-09 21:11 UTC",
-    "mode": "4on4"
+    "mode": "4on4",
+    "map": "dm3"
   },
   
   "players": [
@@ -96,9 +97,7 @@
       "stats": {
         "kills": "50",
         "deaths": "40",
-        "teamkills": "4",
-        "quads_taken": "3",
-        "[more_stats]": "[...]"
+        "teamkills": "4"
        }
     }
   ]
