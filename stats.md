@@ -32,7 +32,8 @@
     "ended": "2020-02-09 21:11 UTC",
     "duration": "20",
     "mode": "4on4",
-    "tag": "EQL20"
+    "tag": "EQL20",
+    "map": "dm3"
   },
   
   "players": [
