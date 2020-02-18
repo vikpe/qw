@@ -21,6 +21,34 @@
 * What data can u get from a QWD (compared to MVD)?
 * Could/should we use game tags in a systematic way? E.g. `Official / EQL / EQL9 / Div1 Group Game` (similar to [Pip classifiers](https://pypi.org/classifiers/))
 
+## Parts
+
+### Overview
+* `schema_version`
+* `match`
+* `teams`
+
+### `schema_version` [string]
+### `match` [object]
+> Match details
+* `id` (required) [string] - unique identifier
+* `started` () -  
+* `xxx`
+* `xxx`
+
+
+### `teams` (?)
+* `array` of teams
+
+#### `team`
+
+### `players` (required)
+> player details
+
+### `server` (?)
+> server details
+
+
 ### Schema (verbose)
 ```json
 {
