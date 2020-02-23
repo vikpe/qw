@@ -10,6 +10,7 @@ Property | Type | | Example | Description
 &nbsp;&nbsp; `started` | `(int)` | | `2020-01-01 20:00:00 UTC` | Timestamp when match started
 &nbsp;&nbsp; `ended` | `(int)` | | `2020-01-01 20:20:00 UTC` | Timestamp when match ended
 &nbsp;&nbsp; `duration` | `(int)` | | `20` | Match duration in minutes
+&nbsp;&nbsp; `[more info...]` | `(any)` | optional | | Additional info
 |||
 **`settings`** | `(object)` | | |
 &nbsp;&nbsp; `mode` | `(string)` | | `team` | Mode (`duel/team`)
@@ -17,6 +18,7 @@ Property | Type | | Example | Description
 &nbsp;&nbsp; `fraglimit` | `(int)` | | `50` | Fraglimit
 &nbsp;&nbsp; `teamplay` | `(int)` | | `2` | Teamplay
 &nbsp;&nbsp; `timelimit` | `(int)` | | `20` | Timelimit
+&nbsp;&nbsp; `[more settings...]` | `(any)` | optional | | Additional settings
 |||
 **`teams`** | `(array)` | | |
 &nbsp;&nbsp; `[n].name` | `(string)` | | `fOm` | Name (normalized)
