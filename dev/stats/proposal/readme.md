@@ -10,7 +10,7 @@ Property | Type | | Example | Description
 &nbsp;&nbsp; `started` | `(int)` | | `2020-01-01 20:00:00 UTC` | Timestamp when match started
 &nbsp;&nbsp; `ended` | `(int)` | | `2020-01-01 20:20:00 UTC` | Timestamp when match ended
 &nbsp;&nbsp; `duration` | `(int)` | | `20` | Match duration in minutes
-&nbsp;&nbsp; `[more info...]` | `(any)` | optional | | Additional info
+&nbsp;&nbsp; `[more info...]` | `(any)` | optional | | More info
 |||
 **`settings`** | `(object)` | | |
 &nbsp;&nbsp; `mode` | `(string)` | | `team` | Mode (`duel/team`)
@@ -29,7 +29,7 @@ Property | Type | | Example | Description
 &nbsp;&nbsp;&nbsp;&nbsp; `[n].kills` | `(int)` | | `256` | Kills
 &nbsp;&nbsp;&nbsp;&nbsp; `[n].deaths` | `(int)` | | `198` | Deaths
 &nbsp;&nbsp;&nbsp;&nbsp; `[n].teamkills` | `(int)` | | `4` | Teamkills
-&nbsp;&nbsp;&nbsp;&nbsp; `[n].[more stats..]` | `(any)` | optional | | Additional stats
+&nbsp;&nbsp;&nbsp;&nbsp; `[n].[more stats..]` | `(any)` | optional | | More stats
 |||
 **`players`** | `(array)` | | |
 &nbsp;&nbsp; `[n].name` | `(string)` | | `silverfish` | Name (normalized)
@@ -44,7 +44,7 @@ Property | Type | | Example | Description
 &nbsp;&nbsp;&nbsp;&nbsp; `kills` | `(int)` | | `256` | Kills
 &nbsp;&nbsp;&nbsp;&nbsp; `deaths` | `(int)` | | `198` | Deaths
 &nbsp;&nbsp;&nbsp;&nbsp; `teamkills` | `(int)` | | `4` | Teamkills
-&nbsp;&nbsp;&nbsp;&nbsp; `[more stats..]` | `(any)` | optional | | Additional stats
+&nbsp;&nbsp;&nbsp;&nbsp; `[more stats..]` | `(any)` | optional | | More stats
 |||
 **`source`** | `(object)` | optional | |
 &nbsp;&nbsp; `type` | `(string)` | | `demo` | Type (`demo`/`stats_file`)
@@ -55,5 +55,5 @@ Property | Type | | Example | Description
 &nbsp;&nbsp; `ip` | `(string)` | | `202.151.22.12` | IP
 &nbsp;&nbsp; `port` | `(int)` | | `27501` | Port number
 |||
-**`meta`** | `(object)` | optional | | 
-&nbsp;&nbsp; `[key]` | `(any)` | | `EQL 10 Grand Final` | Additional custom info
+**`custom`** | `(object)` | optional | | 
+&nbsp;&nbsp; `[key]` | `(any)` | | `EQL 10 Grand Final` | Custom info
