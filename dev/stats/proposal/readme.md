@@ -1,3 +1,6 @@
+# Stats schema proposal
+> this is a draft
+
 Property | Type | | Example | Description
 --- | --- | --- | --- | ---
 `schema_version` | `(string)` | | `1.0.0` | Version of stats schema.
