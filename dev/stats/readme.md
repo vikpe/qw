@@ -14,11 +14,13 @@
   * major versions.
   * existing schemas
 * Would be nice with enough info to generate screenshots.
+* Can we get legacy data?
+  * From screenshots using OCR such as Tesseract?
+  * What data can u get from a QWD?
 * How to handle:
   * overtime?
   * other irregularities?
   * non-deathmatch game modes, such as race?
-* What data can u get from a QWD (compared to MVD)?
 
 ## Schema
 Property | Type | | Example | Description
