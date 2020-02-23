@@ -44,6 +44,10 @@ Property | Type | | Example | Description
 &nbsp;&nbsp;&nbsp;&nbsp; `quad_time` | `(int)` | optional | `122` | Quad time
 &nbsp;&nbsp;&nbsp;&nbsp; `[more stats..]` | `(any)` | optional | | Additional stats
 |||
+**`source`** | `(object)` | optional | |
+&nbsp;&nbsp; `type` | `(string)` | | `demo` | Type (`demo`/`stats_file`)
+&nbsp;&nbsp; `filename` | `(string)` | | `2on2_red_vs_blue[dm2]170722-1131.mvd` | Filename
+|||
 **`server`** | `(object)` | optional | |
 &nbsp;&nbsp; `hostname` | `(string)` | | `badplace.eu` | Hostname
 &nbsp;&nbsp; `ip` | `(string)` | | `202.151.22.12` | IP
