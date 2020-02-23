@@ -10,6 +10,7 @@
   * `player.[n].stats.weapons_sg_acc_attacks`
 * Should we provide a dictionary for terms used?
   * E.g: `health_15` - Small healthpack  
+  * E.g: `match.ended` - Timestamp when match ended.  
 * We create a tool to convert between
   * major versions.
   * existing schemas
