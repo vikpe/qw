@@ -29,8 +29,6 @@ Property | Type | | Example | Description
 &nbsp;&nbsp;&nbsp;&nbsp; `[n].kills` | `(int)` | | `256` | Kills
 &nbsp;&nbsp;&nbsp;&nbsp; `[n].deaths` | `(int)` | | `198` | Deaths
 &nbsp;&nbsp;&nbsp;&nbsp; `[n].teamkills` | `(int)` | | `4` | Teamkills
-&nbsp;&nbsp;&nbsp;&nbsp; `[n].quad_taken` | `(int)` | optional | `5` | Quads taken
-&nbsp;&nbsp;&nbsp;&nbsp; `[n].quad_time` | `(int)` | optional | `122` | Quad time
 &nbsp;&nbsp;&nbsp;&nbsp; `[n].[more stats..]` | `(any)` | optional | | Additional stats
 |||
 **`players`** | `(array)` | | |
@@ -46,8 +44,6 @@ Property | Type | | Example | Description
 &nbsp;&nbsp;&nbsp;&nbsp; `kills` | `(int)` | | `256` | Kills
 &nbsp;&nbsp;&nbsp;&nbsp; `deaths` | `(int)` | | `198` | Deaths
 &nbsp;&nbsp;&nbsp;&nbsp; `teamkills` | `(int)` | | `4` | Teamkills
-&nbsp;&nbsp;&nbsp;&nbsp; `quad_taken` | `(int)` | optional | `5` | Quads taken
-&nbsp;&nbsp;&nbsp;&nbsp; `quad_time` | `(int)` | optional | `122` | Quad time
 &nbsp;&nbsp;&nbsp;&nbsp; `[more stats..]` | `(any)` | optional | | Additional stats
 |||
 **`source`** | `(object)` | optional | |
