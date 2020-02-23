@@ -30,8 +30,8 @@ Property | Type | | Example | Description
 |||
 **`match`** | `(object)` | | |
 &nbsp;&nbsp; `id` | `(int)` | | `3BCADE2038A9F726EF` | Unique ID of match
-&nbsp;&nbsp; `started` | `(int)` | | `2020-01-01 20:00:00 UTC` | Timestamp when match started
-&nbsp;&nbsp; `ended` | `(int)` | | `2020-01-01 20:20:00 UTC` | Timestamp when match ended
+&nbsp;&nbsp; `started` | `(timestamp)` | | `2020-01-01 20:00:00 UTC` | Timestamp when match started
+&nbsp;&nbsp; `ended` | `(timestamp)` | | `2020-01-01 20:20:00 UTC` | Timestamp when match ended
 &nbsp;&nbsp; `duration` | `(int)` | | `20` | Match duration in minutes
 &nbsp;&nbsp; `[more info...]` | `(any)` | optional | | More info
 |||
@@ -40,7 +40,7 @@ Property | Type | | Example | Description
 &nbsp;&nbsp; `deathmatch` | `(int)` | | `2` | Deathmatch
 &nbsp;&nbsp; `fraglimit` | `(int)` | | `50` | Fraglimit
 &nbsp;&nbsp; `teamplay` | `(int)` | | `2` | Teamplay
-&nbsp;&nbsp; `timelimit` | `(int)` | | `20` | Timelimit
+&nbsp;&nbsp; `timelimit` | `(int)` | | `20` | Timelimit (minutes)
 &nbsp;&nbsp; `[more settings...]` | `(any)` | optional | | More settings
 |||
 **`teams`** | `(array)` | | |
