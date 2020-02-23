@@ -18,7 +18,7 @@ Property | Type | | Example | Description
 &nbsp;&nbsp; `fraglimit` | `(int)` | | `50` | Fraglimit
 &nbsp;&nbsp; `teamplay` | `(int)` | | `2` | Teamplay
 &nbsp;&nbsp; `timelimit` | `(int)` | | `20` | Timelimit
-&nbsp;&nbsp; `[more settings...]` | `(any)` | optional | | Additional settings
+&nbsp;&nbsp; `[more settings...]` | `(any)` | optional | | More settings
 |||
 **`teams`** | `(array)` | | |
 &nbsp;&nbsp; `[n].name` | `(string)` | | `fOm` | Name (normalized)
