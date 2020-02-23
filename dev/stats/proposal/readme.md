@@ -34,10 +34,11 @@ Property | Type | | Example | Description
 **`players`** | `(array)` | | |
 &nbsp;&nbsp; `[n].name` | `(string)` | | `silverfish` | Name (normalized)
 &nbsp;&nbsp; `[n].name_raw` | `(string)` | | `silver^f^i^s^h` | Name (raw)
+&nbsp;&nbsp; `[n].team` | `(string)` | | `fOm` | Team name (normalized)
 &nbsp;&nbsp; `[n].bottomcolor` | `(string)` | | `4` | Bottom color
 &nbsp;&nbsp; `[n].topcolor` | `(string)` | | `2` | Top color
-&nbsp;&nbsp; `[n].disconnected` | `(bool)` | | `false` | Player disconnected
-&nbsp;&nbsp; `[n].team` | `(string)` | | `fOm` | Team name (normalized)
+&nbsp;&nbsp; `[n].ping` | `(int)` | (optional) | `25` | Ping
+&nbsp;&nbsp; `[n].disconnected` | `(bool)` | (optional) | `false` | Player disconnected
 &nbsp;&nbsp; `[n].stats` | `(object)` | | | Player stats
 &nbsp;&nbsp;&nbsp;&nbsp; `frags` | `(int)` | | `252` | Frags
 &nbsp;&nbsp;&nbsp;&nbsp; `kills` | `(int)` | | `256` | Kills
