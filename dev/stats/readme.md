@@ -48,11 +48,11 @@ Property | Type | | Example | Description
 &nbsp;&nbsp; `[n].name_raw` | `(string)` | | `f^Om` | Name (raw)
 &nbsp;&nbsp; `[n].players` | `(array)` | | `[XantoM, mushi]` | Normalized player names
 &nbsp;&nbsp; `[n].stats` | `(object)` | | | Team stats
-&nbsp;&nbsp;&nbsp;&nbsp; `[n].frags` | `(int)` | | `252` | Frags
-&nbsp;&nbsp;&nbsp;&nbsp; `[n].kills` | `(int)` | | `256` | Kills
-&nbsp;&nbsp;&nbsp;&nbsp; `[n].deaths` | `(int)` | | `198` | Deaths
-&nbsp;&nbsp;&nbsp;&nbsp; `[n].teamkills` | `(int)` | | `4` | Teamkills
-&nbsp;&nbsp;&nbsp;&nbsp; `[n].[more stats..]` | `(any)` | optional | | More stats
+&nbsp;&nbsp;&nbsp;&nbsp; `frags` | `(int)` | | `252` | Frags
+&nbsp;&nbsp;&nbsp;&nbsp; `kills` | `(int)` | | `256` | Kills
+&nbsp;&nbsp;&nbsp;&nbsp; `deaths` | `(int)` | | `198` | Deaths
+&nbsp;&nbsp;&nbsp;&nbsp; `teamkills` | `(int)` | | `4` | Teamkills
+&nbsp;&nbsp;&nbsp;&nbsp; `[more stats..]` | `(any)` | optional | | More stats
 |||
 **`players`** | `(array)` | | |
 &nbsp;&nbsp; `[n].name` | `(string)` | | `silverfish` | Name (normalized)
