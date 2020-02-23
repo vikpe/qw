@@ -1,0 +1,1206 @@
+{
+  "match": {
+    "version": "3",
+    "date": "2017-07-22 11:41:42 CEST",
+    "map": "dm2",
+    "hostname": "nl.badplace.eu #1",
+    "ip": "127.0.1.1",
+    "port": "28501",
+    "mode": "team",
+    "tl": "10",
+    "fl": "0",
+    "dmm": "3",
+    "tp": "2",
+    "demo": "2on2_red_vs_blue[dm2]170722-1131.mvd",
+    "teams": {
+      "team": [
+        {
+          "weapons": {
+            "weapon": [
+              {
+                "name": "axe",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "53",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "sg",
+                "hits": "197",
+                "attacks": "576",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "4",
+                "tkills": "0",
+                "ekills": "53",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "19",
+                "tooks": "0",
+                "ttooks": "22",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "ssg",
+                "hits": "60",
+                "attacks": "140",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "2",
+                "tkills": "0",
+                "ekills": "11",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "1",
+                "tooks": "12",
+                "ttooks": "13",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "ng",
+                "hits": "6",
+                "attacks": "42",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "8",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "1",
+                "tooks": "6",
+                "ttooks": "6",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "sng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "gl",
+                "hits": "3",
+                "attacks": "16",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "1",
+                "tkills": "0",
+                "ekills": "3",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "1",
+                "tooks": "6",
+                "ttooks": "6",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "rl",
+                "hits": "33",
+                "attacks": "356",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "45",
+                "tkills": "3",
+                "ekills": "28",
+                "suicides": "0",
+                "deaths": "38",
+                "drops": "22",
+                "tooks": "29",
+                "ttooks": "51",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "lg",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              }
+            ]
+          },
+          "items": {
+            "item": [
+              {
+                "name": "health_15",
+                "tooks": "2"
+              },
+              {
+                "name": "health_25",
+                "tooks": "52"
+              },
+              {
+                "name": "health_100",
+                "tooks": "10"
+              },
+              {
+                "name": "ga",
+                "tooks": "0"
+              },
+              {
+                "name": "ya",
+                "tooks": "14"
+              },
+              {
+                "name": "ra",
+                "tooks": "20"
+              },
+              {
+                "name": "q",
+                "tooks": "7",
+                "time": "102"
+              },
+              {
+                "name": "p",
+                "tooks": "0",
+                "time": "0"
+              },
+              {
+                "name": "r",
+                "tooks": "0",
+                "time": "0"
+              }
+            ]
+          },
+          "name": "red",
+          "frags": "50",
+          "deaths": "44",
+          "tkills": "3",
+          "dmg_tkn": "9526",
+          "dmg_gvn": "11161",
+          "dmg_tm": "595"
+        },
+        {
+          "weapons": {
+            "weapon": [
+              {
+                "name": "axe",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "41",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "sg",
+                "hits": "210",
+                "attacks": "1014",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "1",
+                "tkills": "0",
+                "ekills": "41",
+                "suicides": "0",
+                "deaths": "4",
+                "drops": "33",
+                "tooks": "0",
+                "ttooks": "25",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "ssg",
+                "hits": "15",
+                "attacks": "84",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "1",
+                "tkills": "0",
+                "ekills": "10",
+                "suicides": "0",
+                "deaths": "2",
+                "drops": "1",
+                "tooks": "14",
+                "ttooks": "14",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "ng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "5",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "8",
+                "ttooks": "9",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "sng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "gl",
+                "hits": "1",
+                "attacks": "30",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "1",
+                "tkills": "0",
+                "ekills": "6",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "1",
+                "tooks": "6",
+                "ttooks": "6",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "rl",
+                "hits": "24",
+                "attacks": "286",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "38",
+                "tkills": "1",
+                "ekills": "27",
+                "suicides": "0",
+                "deaths": "45",
+                "drops": "27",
+                "tooks": "35",
+                "ttooks": "54",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "lg",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              }
+            ]
+          },
+          "items": {
+            "item": [
+              {
+                "name": "health_15",
+                "tooks": "5"
+              },
+              {
+                "name": "health_25",
+                "tooks": "51"
+              },
+              {
+                "name": "health_100",
+                "tooks": "11"
+              },
+              {
+                "name": "ga",
+                "tooks": "0"
+              },
+              {
+                "name": "ya",
+                "tooks": "19"
+              },
+              {
+                "name": "ra",
+                "tooks": "18"
+              },
+              {
+                "name": "q",
+                "tooks": "3",
+                "time": "62"
+              },
+              {
+                "name": "p",
+                "tooks": "0",
+                "time": "0"
+              },
+              {
+                "name": "r",
+                "tooks": "0",
+                "time": "0"
+              }
+            ]
+          },
+          "name": "blue",
+          "frags": "32",
+          "deaths": "62",
+          "tkills": "1",
+          "dmg_tkn": "11161",
+          "dmg_gvn": "9526",
+          "dmg_tm": "436"
+        }
+      ],
+      "team1": "red",
+      "team2": "blue"
+    },
+    "players": {
+      "player": [
+        {
+          "weapons": {
+            "weapon": [
+              {
+                "name": "axe",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "23",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "sg",
+                "hits": "71",
+                "attacks": "198",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "2",
+                "tkills": "0",
+                "ekills": "23",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "7",
+                "tooks": "0",
+                "ttooks": "13",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "ssg",
+                "hits": "1",
+                "attacks": "14",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "5",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "7",
+                "ttooks": "8",
+                "staken": "7",
+                "sttaken": "7"
+              },
+              {
+                "name": "ng",
+                "hits": "6",
+                "attacks": "42",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "2",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "1",
+                "tooks": "2",
+                "ttooks": "2",
+                "staken": "2",
+                "sttaken": "2"
+              },
+              {
+                "name": "sng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "gl",
+                "hits": "3",
+                "attacks": "12",
+                "rhits": "4",
+                "vhits": "4",
+                "kills": "1",
+                "tkills": "0",
+                "ekills": "1",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "5",
+                "ttooks": "5",
+                "staken": "3",
+                "sttaken": "3"
+              },
+              {
+                "name": "rl",
+                "hits": "17",
+                "attacks": "187",
+                "rhits": "69",
+                "vhits": "69",
+                "kills": "19",
+                "tkills": "2",
+                "ekills": "15",
+                "suicides": "0",
+                "deaths": "18",
+                "drops": "12",
+                "tooks": "16",
+                "ttooks": "25",
+                "staken": "15",
+                "sttaken": "15"
+              },
+              {
+                "name": "lg",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              }
+            ]
+          },
+          "items": {
+            "item": [
+              {
+                "name": "health_15",
+                "tooks": "1"
+              },
+              {
+                "name": "health_25",
+                "tooks": "26"
+              },
+              {
+                "name": "health_100",
+                "tooks": "7"
+              },
+              {
+                "name": "ga",
+                "tooks": "0"
+              },
+              {
+                "name": "ya",
+                "tooks": "5"
+              },
+              {
+                "name": "ra",
+                "tooks": "12"
+              },
+              {
+                "name": "q",
+                "tooks": "4",
+                "time": "39"
+              },
+              {
+                "name": "p",
+                "tooks": "0",
+                "time": "0"
+              },
+              {
+                "name": "r",
+                "tooks": "0",
+                "time": "0"
+              }
+            ]
+          },
+          "hm-frags": "",
+          "name": "GrAv3HilL",
+          "team": "red",
+          "frags": "21",
+          "deaths": "20",
+          "tkills": "2",
+          "dmg_tkn": "5191",
+          "dmg_gvn": "5814",
+          "dmg_tm": "248",
+          "spawnfrags": "2",
+          "xfer_packs": "3",
+          "spree": "6",
+          "qspree": "2",
+          "control_time": "0.000000"
+        },
+        {
+          "weapons": {
+            "weapon": [
+              {
+                "name": "axe",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "30",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "sg",
+                "hits": "126",
+                "attacks": "378",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "2",
+                "tkills": "0",
+                "ekills": "30",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "12",
+                "tooks": "0",
+                "ttooks": "9",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "ssg",
+                "hits": "59",
+                "attacks": "126",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "2",
+                "tkills": "0",
+                "ekills": "6",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "1",
+                "tooks": "5",
+                "ttooks": "5",
+                "staken": "5",
+                "sttaken": "5"
+              },
+              {
+                "name": "ng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "6",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "4",
+                "ttooks": "4",
+                "staken": "4",
+                "sttaken": "4"
+              },
+              {
+                "name": "sng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "gl",
+                "hits": "0",
+                "attacks": "4",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "2",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "1",
+                "tooks": "1",
+                "ttooks": "1",
+                "staken": "1",
+                "sttaken": "1"
+              },
+              {
+                "name": "rl",
+                "hits": "16",
+                "attacks": "169",
+                "rhits": "74",
+                "vhits": "74",
+                "kills": "26",
+                "tkills": "1",
+                "ekills": "13",
+                "suicides": "0",
+                "deaths": "20",
+                "drops": "10",
+                "tooks": "13",
+                "ttooks": "26",
+                "staken": "13",
+                "sttaken": "13"
+              },
+              {
+                "name": "lg",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              }
+            ]
+          },
+          "items": {
+            "item": [
+              {
+                "name": "health_15",
+                "tooks": "1"
+              },
+              {
+                "name": "health_25",
+                "tooks": "26"
+              },
+              {
+                "name": "health_100",
+                "tooks": "3"
+              },
+              {
+                "name": "ga",
+                "tooks": "0"
+              },
+              {
+                "name": "ya",
+                "tooks": "9"
+              },
+              {
+                "name": "ra",
+                "tooks": "8"
+              },
+              {
+                "name": "q",
+                "tooks": "3",
+                "time": "63"
+              },
+              {
+                "name": "p",
+                "tooks": "0",
+                "time": "0"
+              },
+              {
+                "name": "r",
+                "tooks": "0",
+                "time": "0"
+              }
+            ]
+          },
+          "hm-frags": "",
+          "name": "nice",
+          "team": "red",
+          "frags": "29",
+          "deaths": "24",
+          "tkills": "1",
+          "dmg_tkn": "4335",
+          "dmg_gvn": "5347",
+          "dmg_tm": "347",
+          "spawnfrags": "0",
+          "xfer_packs": "1",
+          "spree": "9",
+          "qspree": "4",
+          "control_time": "0.000000"
+        },
+        {
+          "weapons": {
+            "weapon": [
+              {
+                "name": "axe",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "24",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "sg",
+                "hits": "136",
+                "attacks": "540",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "24",
+                "suicides": "0",
+                "deaths": "3",
+                "drops": "19",
+                "tooks": "0",
+                "ttooks": "14",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "ssg",
+                "hits": "15",
+                "attacks": "70",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "1",
+                "tkills": "0",
+                "ekills": "4",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "1",
+                "tooks": "8",
+                "ttooks": "8",
+                "staken": "8",
+                "sttaken": "8"
+              },
+              {
+                "name": "ng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "2",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "5",
+                "ttooks": "6",
+                "staken": "5",
+                "sttaken": "5"
+              },
+              {
+                "name": "sng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "gl",
+                "hits": "0",
+                "attacks": "4",
+                "rhits": "1",
+                "vhits": "1",
+                "kills": "1",
+                "tkills": "0",
+                "ekills": "3",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "0",
+                "tooks": "1",
+                "ttooks": "1",
+                "staken": "1",
+                "sttaken": "1"
+              },
+              {
+                "name": "rl",
+                "hits": "12",
+                "attacks": "148",
+                "rhits": "70",
+                "vhits": "70",
+                "kills": "22",
+                "tkills": "0",
+                "ekills": "14",
+                "suicides": "1",
+                "deaths": "24",
+                "drops": "11",
+                "tooks": "17",
+                "ttooks": "26",
+                "staken": "14",
+                "sttaken": "14"
+              },
+              {
+                "name": "lg",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              }
+            ]
+          },
+          "items": {
+            "item": [
+              {
+                "name": "health_15",
+                "tooks": "3"
+              },
+              {
+                "name": "health_25",
+                "tooks": "22"
+              },
+              {
+                "name": "health_100",
+                "tooks": "3"
+              },
+              {
+                "name": "ga",
+                "tooks": "0"
+              },
+              {
+                "name": "ya",
+                "tooks": "10"
+              },
+              {
+                "name": "ra",
+                "tooks": "8"
+              },
+              {
+                "name": "q",
+                "tooks": "0",
+                "time": "0"
+              },
+              {
+                "name": "p",
+                "tooks": "0",
+                "time": "0"
+              },
+              {
+                "name": "r",
+                "tooks": "0",
+                "time": "0"
+              }
+            ]
+          },
+          "hm-frags": "",
+          "name": "PernanMaistaja",
+          "team": "blue",
+          "frags": "23",
+          "deaths": "31",
+          "tkills": "0",
+          "dmg_tkn": "5096",
+          "dmg_gvn": "5151",
+          "dmg_tm": "113",
+          "spawnfrags": "2",
+          "xfer_packs": "3",
+          "spree": "3",
+          "qspree": "0",
+          "control_time": "0.000000"
+        },
+        {
+          "weapons": {
+            "weapon": [
+              {
+                "name": "axe",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "17",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "sg",
+                "hits": "74",
+                "attacks": "474",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "1",
+                "tkills": "0",
+                "ekills": "17",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "14",
+                "tooks": "0",
+                "ttooks": "11",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "ssg",
+                "hits": "0",
+                "attacks": "14",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "6",
+                "suicides": "0",
+                "deaths": "1",
+                "drops": "0",
+                "tooks": "6",
+                "ttooks": "6",
+                "staken": "6",
+                "sttaken": "6"
+              },
+              {
+                "name": "ng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "3",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "3",
+                "ttooks": "3",
+                "staken": "3",
+                "sttaken": "3"
+              },
+              {
+                "name": "sng",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              },
+              {
+                "name": "gl",
+                "hits": "1",
+                "attacks": "26",
+                "rhits": "2",
+                "vhits": "2",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "3",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "1",
+                "tooks": "5",
+                "ttooks": "5",
+                "staken": "5",
+                "sttaken": "5"
+              },
+              {
+                "name": "rl",
+                "hits": "12",
+                "attacks": "138",
+                "rhits": "58",
+                "vhits": "58",
+                "kills": "16",
+                "tkills": "1",
+                "ekills": "13",
+                "suicides": "5",
+                "deaths": "21",
+                "drops": "16",
+                "tooks": "18",
+                "ttooks": "28",
+                "staken": "17",
+                "sttaken": "17"
+              },
+              {
+                "name": "lg",
+                "hits": "0",
+                "attacks": "0",
+                "rhits": "0",
+                "vhits": "0",
+                "kills": "0",
+                "tkills": "0",
+                "ekills": "0",
+                "suicides": "0",
+                "deaths": "0",
+                "drops": "0",
+                "tooks": "0",
+                "ttooks": "0",
+                "staken": "0",
+                "sttaken": "0"
+              }
+            ]
+          },
+          "items": {
+            "item": [
+              {
+                "name": "health_15",
+                "tooks": "2"
+              },
+              {
+                "name": "health_25",
+                "tooks": "29"
+              },
+              {
+                "name": "health_100",
+                "tooks": "8"
+              },
+              {
+                "name": "ga",
+                "tooks": "0"
+              },
+              {
+                "name": "ya",
+                "tooks": "9"
+              },
+              {
+                "name": "ra",
+                "tooks": "10"
+              },
+              {
+                "name": "q",
+                "tooks": "3",
+                "time": "62"
+              },
+              {
+                "name": "p",
+                "tooks": "0",
+                "time": "0"
+              },
+              {
+                "name": "r",
+                "tooks": "0",
+                "time": "0"
+              }
+            ]
+          },
+          "hm-frags": "",
+          "name": "paniagua",
+          "team": "blue",
+          "frags": "9",
+          "deaths": "31",
+          "tkills": "1",
+          "dmg_tkn": "6065",
+          "dmg_gvn": "4375",
+          "dmg_tm": "323",
+          "spawnfrags": "1",
+          "xfer_packs": "3",
+          "spree": "5",
+          "qspree": "3",
+          "control_time": "0.000000"
+        }
+      ]
+    }
+  }
+}
